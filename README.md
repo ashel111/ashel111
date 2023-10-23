@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashel</h1>
 <h3 align="center">Coding Enthusiast</h3>
-https://holopin.me/ashel111)](https://holopin.io/@ashel111
+
+
+[![An image of @ashel111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashel111)](https://holopin.io/@ashel111)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashel111&label=Profile%20views&color=0e75b6&style=flat" alt="ashel111" /> </p>
 
